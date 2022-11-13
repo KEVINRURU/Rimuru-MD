@@ -8,7 +8,7 @@ owner = [
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 mods = [] // Want some help?
-prems = [] // Premium user has unlimited limit
+prems = [999999999999999999999] // Premium user has unlimited limit
 APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
